@@ -1,71 +1,92 @@
-<h1 align="center">👋 Hi, I'm Jose Martin Rangel Espinoza</h1>
+<!-- Banner personalizado -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5947e702-93a3-47fc-a073-bfff18442019" alt="Dark Tech Banner" width="50%" />
+</p>
+
+<h1 align="center">👋 Hi there, I'm Jose Martin Rangel Espinoza</h1>
+<h3 align="center">Artificial Intelligence Engineer | Backend | MLOps | Generative AI</h3>
 
 <p align="center">
-  <em>AI & Backend Engineer | LLMs | Python | Cloud | Microservices</em><br/>
-  Puebla, México 🇲🇽 | <a href="mailto:jrangelespinoza@outlook.com">jrangelespinoza@outlook.com</a>
+  <a href="https://www.linkedin.com/in/martinrangel/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/homodeusdev"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:jrangelespinoza@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://huggingface.co/homodeusdev"><img src="https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧬 About Me
 
-I'm a passionate **Artificial Intelligence Engineer** with over 5 years of experience designing and deploying intelligent backend systems.  
-My work focuses on combining **LLMs, NLP, and MLOps** to build scalable, cloud-native AI applications.
+🚀 AI & Backend Engineer with a strong passion for turning complex ideas into scalable, real-world systems.  
+🔍 Specialized in **LLMs**, **MLOps**, **Generative AI**, and cloud-native microservice architectures.  
+💡 I believe in building **intelligent systems** that are clean, reliable, and make an impact.  
 
-🧠 From anomaly detection to RAG-based Q&A systems, I bridge the gap between **machine learning** and **robust backend engineering**.
-
-- 🧰 Expert in **Python**, **Go**, **Java**, **Flask**, **Spring Boot**
-- ☁️ Cloud-native deployments with **GCP**, **BigQuery**, **Azure**
-- 🤖 Proficient with **Hugging Face**, **LangChain**, **OpenAI APIs**
-- 📦 CI/CD, microservices, and monitoring in production at scale
+\```python
+def solve(hard_problems_with_ai(human_insight=True)):
+    return scalable, elegant, production_ready_solutions
+\```
 
 ---
 
-### 🛠️ Skills & Tools
+### 💼 My Toolbelt
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=google-cloud&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black)
+- **Languages:** Python, Go, Java, JavaScript, SQL, Bash  
+- **AI & ML:** TensorFlow, PyTorch, Hugging Face, OpenAI, LangChain, RAG  
+- **Cloud & Infra:** GCP, BigQuery, Azure, Docker, Kubernetes  
+- **Frameworks:** Flask, FastAPI, Spring Boot, .NET Core  
+- **DevOps:** GitHub Actions, GitLab CI, Monitoring, CI/CD pipelines  
+- **Metrics & Evaluation:** ROC-AUC, F1, Precision/Recall  
 
 ---
 
 ### 📂 Featured Projects
 
-- 🤖 **LLM-based Anomaly Detection System**  
-  Designed a real-time anomaly monitoring system using LLMs integrated into microservices at **Mercado Libre**.
-
-- 🧾 **Credit Scoring Engine**  
-  Built scalable backend pipelines in **Go** and **Python** for real-time credit scoring using **BigQuery**.
-
-- 🧠 **AI-Powered Monitoring Platform**  
-  Engineered event-driven dashboards and model monitors leveraging **Spring Boot**, **Flask**, and **LLMs**.
+🧠 **AI Model Monitoring Platform** – Scalable system to track and explain LLM predictions  
+🏦 **Credit Scoring System** – Built with Python, Go, BigQuery and microservices at Mercado Libre  
+💬 **Conversational Agents** – LLM-based chatbots integrated into production APIs using LangChain  
 
 ---
 
-### 📚 Certifications
+### 📜 Certifications
 
-- ✅ **IBM Generative AI Engineering**  
-  [View Certificate](https://coursera.org/verify/professional-cert/927ZVSXXP3YH)
-
-- ✅ **IBM AI Developer**  
-  [View Certificate](https://coursera.org/verify/professional-cert/67EO8C0OJCBJ)
-
-- ✅ **DeepLearning.AI TensorFlow Developer**  
-  [View Certificate](https://coursera.org/verify/professional-cert/9DMZNZDVQBZA)
+- 🎓 [IBM Generative AI Engineering](https://coursera.org/verify/professional-cert/927ZVSXXP3YH)  
+- 🎓 [IBM AI Developer](https://coursera.org/verify/professional-cert/67EO8C0OJCBJ)  
+- 🎓 [DeepLearning.AI TensorFlow Developer](https://coursera.org/verify/professional-cert/9DMZNZDVQBZA)  
 
 ---
 
-### 🌐 Let's Connect
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinrangel/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/homodeusdev)
-[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/homodeusdev)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=homodeusdev&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=homodeusdev&theme=react&hide_border=true" />
+</p>
 
 ---
 
-🧬 *“I don’t just code models — I build intelligent systems that learn, adapt, and scale.”*
+### 🌎 También hablo español 🇲🇽
+
+¡Hola! Soy Jose Martin, un Ingeniero en Inteligencia Artificial con experiencia en sistemas distribuidos, microservicios, y modelos generativos.  
+Me encanta construir soluciones que mezclen algoritmos inteligentes con ingeniería robusta y escalable.  
+Si buscas colaboración o simplemente quieres platicar de IA, ¡contáctame! 🤝
+
+---
+
+### 🧠 Fun Fact
+
+> I train machines to think, but I still need coffee to think myself ☕🤖
+
+---
+
+### 📫 Reach out
+
+- 📧 Email: [jrangelespinoza@outlook.com](mailto:jrangelespinoza@outlook.com)  
+- 💼 LinkedIn: [martinrangel](https://www.linkedin.com/in/martinrangel/)  
+- 🧠 Hugging Face: [homodeusdev](https://huggingface.co/homodeusdev)  
+- 🧪 GitHub: [homodeusdev](https://github.com/homodeusdev)  
+
+---
+
+### ⭐️ Support
+
+If you like what I do, consider leaving a ⭐️ on my repos or let's collaborate on something awesome.
