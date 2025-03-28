@@ -21,10 +21,12 @@
 🔍 Specialized in **LLMs**, **MLOps**, **Generative AI**, and cloud-native microservice architectures.  
 💡 I believe in building **intelligent systems** that are clean, reliable, and make an impact.  
 
-\```python
+<pre>
+```python
 def solve(hard_problems_with_ai(human_insight=True)):
     return scalable, elegant, production_ready_solutions
-\```
+```
+</pre>
 
 ---
 
